@@ -8,7 +8,7 @@ lede: Upstage Studio에서 문서 처리 에이전트를 직접 만들고 실행
 
 이 해커톤에서 팀은 실무 문서 업무가 실제로 돌아가는 Studio 워크플로우를 만듭니다.
 
-이 Playbook은 예시 에이전트 3개를 Studio에서 직접 만들어 보며 Studio 사용법을 익히는 데 집중합니다. 예시는 Parse, Classify, Extract 같은 가장 기초적인 노드만 씁니다.
+이 Playbook은 미니 미션 1을 위한 자료입니다. 예시 에이전트 3개를 Studio에서 직접 만들어 보며 Studio 사용법을 익히는 데 집중합니다. 예시는 Parse, Classify, Extract 같은 가장 기초적인 노드만 씁니다.
 
 ## 0-1. 해커톤에서 만드는 것
 
